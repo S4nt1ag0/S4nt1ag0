@@ -8,7 +8,7 @@
 <br>
 <h2 align="center">My Github stats:</h2>
 <br>
-<div style="display:flex, justify-content:space-between">
+<div style="display:flex, justify-content:space-between, align-itens:center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=S4nt1ag0&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="S4nt1ag0" />
 
