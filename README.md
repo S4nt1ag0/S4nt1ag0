@@ -1,16 +1,16 @@
-### Hi there 👋 working here
+<h1> Hi there 👋 i'm Gustavo Santiago </h1>
 
-<!--
-**S4nt1ag0/S4nt1ag0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤵 about me
+- :mortar_board: graduation of bachelor degree in exact and Technological science at <a href="https://ufrb.edu.br/portal/"><b>UFRB</b></a>.
+- 🌱 I’m currently learning <b>Node.js</b> and <b>ReactJS</b> and <b>ReactNative</b>
+- 🇧🇷 Living in Brazil
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gustavo-santiago-82b80b162/?locale=en_US)
+<br>
+<h2 align="center">My Github stats:</h2>
+<br>
 
-<!--Here are some ideas to get you started:
+<p align="rigth">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=S4nt1ag0&show_icons=true&locale=en&layout=compact" alt="S4nt1ag0" /></p>
 
-<!-- - 🔭 I’m currently working on ...
-<!-- - 🌱 I’m currently learning ...
-<!-- - 👯 I’m looking to collaborate on ...
-<!-- - 🤔 I’m looking for help with ...
-<!-- - 💬 Ask me about ...
-<!-- - 📫 How to reach me: ...
-<!-- - 😄 Pronouns: ...
-<!-- - ⚡ Fun fact: ...
--->
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=S4nt1ag0&show_icons=true&locale=en" alt="S4nt1ag0" />
+</p>
