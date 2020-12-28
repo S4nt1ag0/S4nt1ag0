@@ -8,9 +8,10 @@
 <br>
 <h2 align="center">My Github stats:</h2>
 <br>
+<div style="display:flex, justify-content:space-between">
 
-<p align="rigth">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=S4nt1ag0&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="S4nt1ag0" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=S4nt1ag0&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="S4nt1ag0" />
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=S4nt1ag0&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="S4nt1ag0" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=S4nt1ag0&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="S4nt1ag0" />
+
+</div>
