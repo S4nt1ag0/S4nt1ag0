@@ -10,7 +10,7 @@
 <br>
 <div style="display:flex, justify-content:space-between, align-item:center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4nt1ag0)](https://github.com/anuraghazra/github-readme-stats) alt="S4nt1ag0" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4nt1ag0)](https://github.com/anuraghazra/github-readme-stats)" alt="S4nt1ag0" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=S4nt1ag0&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="S4nt1ag0" />
 
