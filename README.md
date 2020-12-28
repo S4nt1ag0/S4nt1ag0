@@ -1,4 +1,4 @@
-<h1> Hi there 👋 i'm Gustavo Santiago </h1>
+<h1 align="center"> Hi there 👋 i'm Gustavo Santiago </h1>
 
 ### 🤵 about me
 - :mortar_board: graduation of bachelor degree in exact and Technological science at <a href="https://ufrb.edu.br/portal/"><b>UFRB</b></a>.
@@ -10,7 +10,7 @@
 <br>
 
 <p align="rigth">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=S4nt1ag0&show_icons=true&locale=en&layout=compact" alt="S4nt1ag0" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=S4nt1ag0&show_icons=true&locale=en&layout=compact&count_private=true&theme=dracula" alt="S4nt1ag0" /></p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=S4nt1ag0&show_icons=true&locale=en" alt="S4nt1ag0" />
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=S4nt1ag0&show_icons=true&locale=en&count_private=true&theme=dracula" alt="S4nt1ag0" />
 </p>
