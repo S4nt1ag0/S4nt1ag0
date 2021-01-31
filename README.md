@@ -8,11 +8,11 @@
 <br>
 <h2 align="center">My Github stats:</h2>
 <br>
-<div style="display:flex, justify-content:space-between, align-item:center">
+<div style="display:flex, justify-content:space-between, align-item:flex-start">
 
 <img src="https://github-readme-stats.vercel.app/api?username=S4nt1ag0&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="S4nt1ag0" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=S4nt1ag0&show_icons=true&locale=en&theme=tokyonight" alt="S4nt1ag0" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=S4nt1ag0&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="S4nt1ag0" />
 
 
 </div>
