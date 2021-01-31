@@ -12,4 +12,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=S4nt1ag0&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="S4nt1ag0" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=S4nt1ag0&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="S4nt1ag0" />
+
+
 </div>
