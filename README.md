@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 i'm Gustavo Santiago </h1>
 
 ### 🤵 about me
-- :mortar_board: bachelor degree in exact and Technological science at <a href="https://ufrb.edu.br/portal/"><b>UFRB</b></a>.
+- :mortar_board: bachelor in exact and Technological science at <a href="https://ufrb.edu.br/portal/"><b>UFRB</b></a>.
 - :mortar_board: graduation in Computer Engineering at <a href="https://ufrb.edu.br/portal/"><b>UFRB</b></a>.
 - 🌱 I’m currently learning <b>Java</b>, <b>SpringBoot</b>, <b>MongoDb</b>, <b>MySQL</b> <b>Node.js</b> and <b>ReactJS</b> and <b>ReactNative</b>
 - 🇧🇷 Living in Brazil
