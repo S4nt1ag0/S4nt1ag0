@@ -3,7 +3,7 @@
 ### 🤵 about me
 - :mortar_board: bachelor in exact and Technological science at <a href="https://ufrb.edu.br/portal/"><b>UFRB</b></a>.
 - :mortar_board: graduation in Computer Engineering at <a href="https://ufrb.edu.br/portal/"><b>UFRB</b></a>.
-- 🌱 I’m currently learning <b>Java</b>, <b>SpringBoot</b>, <b>MongoDb</b>, <b>MySQL</b> <b>Node.js</b>, <b>ReactJS</b> and <b>ReactNative</b>
+- 🌱 I’m currently learning <b>Vue.JS</b>, <b>PHP</b>
 - 🇧🇷 Living in Brazil
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gustavo-santiago-82b80b162/?locale=en_US)
 <br>
